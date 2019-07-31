@@ -1,0 +1,52 @@
+
+h1 {
+    width: 200px;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 5px;
+    height: 50;
+}
+
+.heading {
+    justify-content: center;
+    display: flex;
+}
+
+
+.addingReg{
+    justify-content: center;
+    display: flex;
+}
+.button {
+    justify-content: center;
+    display: flex;
+
+
+}
+.clicking{
+    justify-content: center;
+    display: flex;
+
+}
+
+.displayBox {
+    justify-content: center;
+    display: flex;
+
+}
+.counter{
+    justify-content: center;
+    display: flex;
+    margin-top: 3em;
+
+}
+
+li{
+background: yellow;
+border: black solid;
+border-radius: 5px;
+justify-content: center;
+display: inline;
+margin-left: 2em;
+}
+
